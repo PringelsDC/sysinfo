@@ -4,7 +4,7 @@ Here You can Download my system information script for linux
 # Getting Started
 
 to get started download the sysinfo.sh file 
-proceed to make a folder in /var/lib and callit extra
+proceed to make a folder in /var/lib and call it extra
 paste the file into it and give it appropiate permissions, in my case i used chmod +x sysinfo.sh
 
 now go in to your root folder and open .bashrc with root Perms 
